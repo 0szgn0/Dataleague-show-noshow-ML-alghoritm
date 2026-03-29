@@ -16,5 +16,5 @@ Predicting appointment no-shows is a real-world problem that helps healthcare pr
 - **Environment:** Kaggle Notebook
 
 ## 📂 What's in this repository?
-- `Dataleague`: Contains the full workflow: Exploratory Data Analysis (EDA), feature engineering, model training, and prediction generation.
+- `Dataleague.ipynb`: Contains the full workflow: Exploratory Data Analysis (EDA), feature engineering, model training, and prediction generation.
 - `README.md`: Project overview.
